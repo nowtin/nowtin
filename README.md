@@ -1,8 +1,8 @@
 
-### Hi I'm chttiu 👋
+### Hi I'm nowtin 👋
 
 
-<img align="right" width="450px" src="https://github-readme-stats-one-bice.vercel.app/api?username=chttiu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
+<img align="right" width="450px" src="https://github-readme-stats-one-bice.vercel.app/api?username=nowtin&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 ###
 <!-- <p>一个一直想要变得和“现在的自己”不一样的 22 岁的普通开发者</p> -->
